@@ -1,0 +1,32 @@
+body{
+    background-color: #ecf80a;
+}
+.texto{
+    font-size: 20px;
+    line-height: 35px;
+    color: blueviolet;
+    font-style: oblique;
+    font-weight: bold;
+    text-align: center;
+}
+.texto a{
+    color: rebeccapurple;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.borda{
+    width: 500px;
+    border: 1px solid #a800fc88;
+    margin:0 auto;
+    margin-top: 40px;
+    padding: 20px;
+   padding-top: 40px;
+padding-bottom: 40px;
+
+}
+.lista{
+list-style-position: inside;
+list-style-type: upper-roman;
+
+}
